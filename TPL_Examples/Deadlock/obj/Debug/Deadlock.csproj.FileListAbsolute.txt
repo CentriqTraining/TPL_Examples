@@ -1,0 +1,29 @@
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPLDeadlock\Deadlock\bin\Debug\UI.exe.config
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPLDeadlock\Deadlock\obj\Debug\UI.exe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPLDeadlock\Deadlock\obj\Debug\UI.pdb
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\bin\Debug\UI.exe.config
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\UI.exe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\UI.pdb
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\bin\Debug\UI.exe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\bin\Debug\UI.pdb
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\Deadlock.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\MainWindow.baml
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\App.g.cs
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\UI.g.resources
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\Deadlock\obj\Debug\Deadlock.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\bin\Debug\UI.exe.config
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\bin\Debug\UI.exe
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\bin\Debug\UI.pdb
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\Deadlock.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\UI.g.resources
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\Deadlock.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\UI.exe
+C:\Users\Student\Desktop\TPL_Examples\Deadlock\obj\Debug\UI.pdb

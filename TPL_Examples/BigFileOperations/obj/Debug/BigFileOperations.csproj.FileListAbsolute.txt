@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\BigFileOperations\bin\Debug\BigFileOperations.exe.config
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\BigFileOperations\bin\Debug\BigFileOperations.exe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\BigFileOperations\bin\Debug\BigFileOperations.pdb
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\BigFileOperations\obj\Debug\BigFileOperations.exe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\BigFileOperations\obj\Debug\BigFileOperations.pdb
+C:\Users\Student\Documents\Visual Studio 2013\Projects\TPL_Examples\BigFileOperations\obj\Debug\BigFileOperations.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\TPL_Examples\BigFileOperations\bin\Debug\BigFileOperations.exe.config
+C:\Users\student\Desktop\TPL_Examples\BigFileOperations\obj\Debug\BigFileOperations.exe
+C:\Users\student\Desktop\TPL_Examples\BigFileOperations\obj\Debug\BigFileOperations.pdb
+C:\Users\student\Desktop\TPL_Examples\BigFileOperations\bin\Debug\BigFileOperations.exe
+C:\Users\student\Desktop\TPL_Examples\BigFileOperations\bin\Debug\BigFileOperations.pdb
+C:\Users\student\Desktop\TPL_Examples\BigFileOperations\obj\Debug\BigFileOperations.csprojResolveAssemblyReference.cache

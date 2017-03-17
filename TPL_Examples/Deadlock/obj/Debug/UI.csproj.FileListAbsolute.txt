@@ -1,0 +1,13 @@
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\bin\Debug\UI.exe.config
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\MainWindow.baml
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\MainWindow.g.cs
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\App.g.cs
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\UI_MarkupCompile.cache
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\UI.g.resources
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\UI.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\bin\Debug\UI.exe
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\bin\Debug\UI.pdb
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\UI.exe
+c:\users\student\documents\visual studio 2013\Projects\TPLDeadlock\UI\obj\Debug\UI.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\TPL_Examples\WebDownloadIOOperations\bin\Debug\WebDownloadIOOperations.exe.config
+C:\Users\student\Desktop\TPL_Examples\WebDownloadIOOperations\obj\Debug\WebDownloadIOOperations.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\TPL_Examples\WebDownloadIOOperations\bin\Debug\WebDownloadIOOperations.exe
+C:\Users\student\Desktop\TPL_Examples\WebDownloadIOOperations\bin\Debug\WebDownloadIOOperations.pdb
+C:\Users\student\Desktop\TPL_Examples\WebDownloadIOOperations\obj\Debug\WebDownloadIOOperations.exe
+C:\Users\student\Desktop\TPL_Examples\WebDownloadIOOperations\obj\Debug\WebDownloadIOOperations.pdb

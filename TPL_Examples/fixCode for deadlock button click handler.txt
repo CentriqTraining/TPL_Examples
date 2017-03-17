@@ -1,0 +1,6 @@
+Replace entire button click handler with this code
+to fix
+private async void Button_Click(object sender, RoutedEventArgs e)
+{
+     txtResults.Text = await GetDataAsync();
+}
